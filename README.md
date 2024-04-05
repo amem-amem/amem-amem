@@ -3,7 +3,7 @@
 
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- ✔ Apaixonado por problemas e desafios.
+- ✔  Apaixonado por problemas e desafios.
 - 🎓 Estudando {seu curso} no {faculdade}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
