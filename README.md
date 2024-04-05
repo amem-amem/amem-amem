@@ -42,7 +42,7 @@
  ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vpelizzari/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dev@vpelizzarisilva.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank)](mailto:dev@vpelizzarisilva.com.br)
 
  
  ##
