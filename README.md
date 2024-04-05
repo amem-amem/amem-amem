@@ -1,11 +1,12 @@
 ##
 ## Sobre mim
 
+
 - 🎓 Analista e Desenvolvedor de Sistemas
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- ✔  Apaixonado por problemas e desafios.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 📈 Aprimorando habilidades em Java | Spring.
+- 🌱 Iniciando em GoLang.
+- ⛏ Explorando o idioma Inglês.
+- ✔ Apaixonado por resolver problemas e enfrentar desafios.
 
 <!--## Minhas Skills
 
