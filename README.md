@@ -10,7 +10,8 @@
 
 
 ##
-``import Desenvolvedor;
+```java
+import Desenvolvedor;
 
 public class SobreMim extends Desenvolvedor {
     String formacao = "Analista e Desenvolvedor de Sistemas";
@@ -23,12 +24,7 @@ public class Habilidades extends Desenvolvedor {
     String[] habilidades = {"Java", "Spring"};
     String[] interesses = {"Aprimorando habilidades em Java | Spring"};
 }
-``
-
-
-
-
-
+```
 
 <!--## Minhas Skills
 
