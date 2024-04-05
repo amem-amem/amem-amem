@@ -9,23 +9,6 @@
 - ✔ Apaixonado por resolver problemas e enfrentar desafios.
 
 
-##
-```java
-import Desenvolvedor;
-
-public class SobreMim extends Desenvolvedor {
-    String formacao = "Analista e Desenvolvedor de Sistemas";
-    String paixao = "Apaixonado por resolver problemas e enfrentar desafios";
-    String idiomas = "Explorando o idioma Inglês";
-    String aprendizado = "Iniciando em GoLang";
-}
-
-public class Habilidades extends Desenvolvedor {
-    String[] habilidades = {"Java", "Spring"};
-    String[] interesses = {"Aprimorando habilidades em Java | Spring"};
-}
-```
-
 <!--## Minhas Skills
 
 **Aplicações e dados**
