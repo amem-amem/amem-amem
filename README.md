@@ -55,14 +55,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
