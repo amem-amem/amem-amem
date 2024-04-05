@@ -1,15 +1,11 @@
-## ⚙️⚒️🔭 Profile under Construction
-
+##
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
 - 🎓 Analista e Desenvolvedor de Sistemas
-- 🍵 Java | Spring 
-- 🏹 Mirando no Desenvolvimento
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- ✔ Apaixonado por problemas e desafios.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
 
